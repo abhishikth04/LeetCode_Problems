@@ -4,7 +4,9 @@ public:
         int maxProfit = 0;
         int mini = prices[0];
 
-        for(int i = 0 ; i < prices.size() ; i++){
+        // Everytime find the min , calc profit , and check in one direction
+
+        for(int i = 1 ; i < prices.size() ; i++){
             mini = min(mini , prices[i]);
             int profit = prices[i] - mini;
             maxProfit = max(maxProfit , profit);
