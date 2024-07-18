@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
@@ -63,5 +64,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
