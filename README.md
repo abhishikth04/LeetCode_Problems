@@ -52,4 +52,16 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
