@@ -25,7 +25,6 @@ public:
             temp -> val = ans[i];
             temp = temp -> next;
             i++;
-
         }
 
 
