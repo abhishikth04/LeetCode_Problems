@@ -60,11 +60,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
