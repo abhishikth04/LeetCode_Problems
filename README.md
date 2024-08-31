@@ -83,4 +83,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
