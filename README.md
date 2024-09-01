@@ -45,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
