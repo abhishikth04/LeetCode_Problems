@@ -76,6 +76,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
