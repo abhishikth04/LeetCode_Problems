@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -88,6 +90,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
