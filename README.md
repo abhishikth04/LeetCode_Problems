@@ -109,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
@@ -122,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
