@@ -109,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1205-defanging-an-ip-address) |
 ## Stack
 |  |
 | ------- |
