@@ -70,6 +70,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0020-valid-parentheses](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
