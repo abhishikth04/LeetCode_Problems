@@ -12,6 +12,8 @@ public:
             if(FlagVec[j] == 0){
                 missing = j;
             }
+
+            // you could also solve by subracting arraysum - n(n-1)/2
         }
         return missing;
     }
