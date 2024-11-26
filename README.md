@@ -107,6 +107,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1205-defanging-an-ip-address) |
@@ -135,6 +136,7 @@
 | [0069-sqrtx](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -168,4 +170,8 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
