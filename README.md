@@ -50,6 +50,7 @@
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
@@ -87,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
