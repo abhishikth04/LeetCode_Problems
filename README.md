@@ -98,6 +98,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 ## Simulation
