@@ -51,6 +51,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
