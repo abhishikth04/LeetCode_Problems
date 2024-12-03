@@ -53,6 +53,7 @@
 | [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Recursion
 |  |
 | ------- |
