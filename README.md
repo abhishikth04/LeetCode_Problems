@@ -77,6 +77,7 @@
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
 ## Linked List
 |  |
@@ -119,6 +120,7 @@
 | [0020-valid-parentheses](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
