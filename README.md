@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
@@ -74,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
