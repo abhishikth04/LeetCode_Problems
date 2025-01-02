@@ -1,7 +1,7 @@
 class Solution {
 public:
     int hIndex(vector<int>& citations) {
-        int n = citations.size();
+        short int n = citations.size();
         std :: sort(citations.rbegin() , citations.rend());
 
         for(int i {0} ; i < n ; i++){
