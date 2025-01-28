@@ -78,6 +78,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
