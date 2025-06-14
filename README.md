@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0055-jump-game) |
@@ -152,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
