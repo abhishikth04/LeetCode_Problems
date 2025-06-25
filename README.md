@@ -58,6 +58,7 @@
 | [0274-h-index](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0890-lemonade-change) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
