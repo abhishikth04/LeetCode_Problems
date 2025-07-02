@@ -58,6 +58,7 @@
 | [0274-h-index](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0890-lemonade-change) |
@@ -126,6 +127,7 @@
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
