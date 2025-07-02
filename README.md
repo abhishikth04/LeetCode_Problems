@@ -63,6 +63,7 @@
 | [0890-lemonade-change](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Dynamic Programming
@@ -94,6 +95,7 @@
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
