@@ -1,14 +1,12 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        // Solvingg using the Greedy method
-        // by pushing the goal as clos as poss to the start state
-        int goal = nums.size() - 1; // assigning the last index
-        for(int i = goal-1 ; i >= 0 ; i--){
-            if(i + nums[i] >= goal){
-                goal = i;
-            }
+        int maxIndex = 0;
+        int n = nums.size();
+        for(int i = 0 ; i < n ; i++){
+            if(i > maxIndex) return false;
+            maxIndex = max(maxIndex , i + nums[i]);
         }
-        return goal == 0;
+        return true;
     }
 };
