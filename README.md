@@ -241,4 +241,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
