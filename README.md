@@ -244,5 +244,6 @@
 ## Database
 |  |
 | ------- |
+| [1258-article-views-i](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
