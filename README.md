@@ -61,6 +61,7 @@
 | [0414-third-maximum-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0643-maximum-average-subarray-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -78,6 +79,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0152-maximum-product-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
