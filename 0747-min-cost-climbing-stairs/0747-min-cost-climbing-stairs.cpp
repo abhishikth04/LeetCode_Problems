@@ -1,9 +1,9 @@
 class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
-        // Using Memoization
+        // Using Tabulation
         int n = cost.size();
-        vector<int> dp(n+1 , -1);
+        vector<int> dp(n+1 , 0);
         dp[0] = 0;
         dp[1] = 0;
         
