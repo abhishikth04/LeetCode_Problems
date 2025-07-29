@@ -74,6 +74,7 @@
 | [0045-jump-game-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0152-maximum-product-subarray) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
