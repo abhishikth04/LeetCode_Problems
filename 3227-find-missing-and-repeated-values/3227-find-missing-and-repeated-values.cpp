@@ -21,9 +21,6 @@ public:
             }
         }
 
-        vector<int> ans;
-        ans.push_back(a);
-        ans.push_back(b);
-        return ans;
+        return {a , b};
     }
 };
