@@ -52,6 +52,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@
 | [0001-two-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0274-h-index) |
@@ -139,6 +142,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
@@ -238,6 +242,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
 ## Counting Sort
 |  |
