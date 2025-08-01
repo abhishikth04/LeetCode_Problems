@@ -70,6 +70,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhishikth04/LeetCode_CRT/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1392-find-the-difference-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhishikth04/LeetCode_CRT/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhishikth04/LeetCode_CRT/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhishikth04/LeetCode_CRT/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
 | ------- |
