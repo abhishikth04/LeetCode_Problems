@@ -50,6 +50,7 @@
 | [0088-merge-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
@@ -235,6 +236,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
