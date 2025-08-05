@@ -1,16 +1,13 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int maxProfit = 0;
-        int mini = prices[0];
+       int minPr = prices[0];
+       int maxxProfit = 0;
 
-        // Everytime find the min , calc profit , and check in one direction
-
-        for(int i = 1 ; i < prices.size() ; i++){
-            mini = min(mini , prices[i]);
-            int profit = prices[i] - mini;
-            maxProfit = max(maxProfit , profit);
-        }
-        return maxProfit;
+       for(int i = 0 ; i < prices.size() ; i++){
+            minPr = std::min(minPr , prices[i]);
+            maxxProfit = std::max(maxxProfit , prices[i] - minPr);
+       } 
+       return maxxProfit;
     }
 };
