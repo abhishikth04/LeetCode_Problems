@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isSafe(int row, int col, vector<string> board, int n){
+    bool isSafe(int row, int col, vector<string> &board, int n){
         // Checking the Upper Diagonal
         int drow = row;
         int dcol = col;
