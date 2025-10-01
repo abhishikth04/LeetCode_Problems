@@ -46,6 +46,7 @@
 | [0018-4sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0045-jump-game-ii) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
@@ -281,6 +283,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhishikth04/LeetCode_CRT/tree/master/3227-find-missing-and-repeated-values) |
@@ -291,6 +294,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0046-permutations) |
