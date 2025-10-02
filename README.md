@@ -90,6 +90,7 @@
 | [0070-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
@@ -172,6 +173,7 @@
 | [0020-valid-parentheses](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
@@ -300,4 +302,5 @@
 | [0046-permutations](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
