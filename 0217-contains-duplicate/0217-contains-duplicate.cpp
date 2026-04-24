@@ -1,7 +1,13 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        set<int> numSet(nums.begin() , nums.end());
-        return nums.size() > numSet.size();
+        unordered_set<int> track;
+        for(int i : nums){
+            if(track.find(i) != track.end()){
+                return true;
+            }
+            track.insert(i);
+        }
+        return false;
     }
 };
