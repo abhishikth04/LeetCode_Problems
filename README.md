@@ -71,6 +71,7 @@
 | [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0747-min-cost-climbing-stairs) |
@@ -116,6 +117,7 @@
 | [0242-valid-anagram](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhishikth04/LeetCode_CRT/tree/master/3227-find-missing-and-repeated-values) |
