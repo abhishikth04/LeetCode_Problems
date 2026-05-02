@@ -78,6 +78,7 @@
 | [0890-lemonade-change](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -226,6 +227,7 @@
 | [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0412-fizz-buzz) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -312,4 +314,8 @@
 | [0051-n-queens](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0131-palindrome-partitioning) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
