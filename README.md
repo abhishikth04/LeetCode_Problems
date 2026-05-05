@@ -64,6 +64,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0268-missing-number) |
@@ -249,12 +250,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -298,6 +301,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhishikth04/LeetCode_CRT/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
@@ -318,4 +322,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1266-minimum-time-visiting-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
