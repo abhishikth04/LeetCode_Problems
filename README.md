@@ -76,6 +76,7 @@
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0747-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0845-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0890-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@
 | [0131-palindrome-partitioning](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0747-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0202-happy-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
+| [0845-longest-mountain-in-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -329,4 +332,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
