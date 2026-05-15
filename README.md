@@ -81,6 +81,7 @@
 | [0890-lemonade-change](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0890-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -172,6 +173,7 @@
 | [0455-assign-cookies](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishikth04/LeetCode_CRT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
